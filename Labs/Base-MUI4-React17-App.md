@@ -1,6 +1,6 @@
 # Base MUI4 and React 17 Applications
 
-The goal of this lab is to build a React 17 application that uses MUI version 4.  This is the base of the Luminate Components.
+The goal of this lab is to build a React 17 application that uses MUI version 4.  
 We will use this React App to experiment with Github Co Pilot.
 
 ## Expectations:

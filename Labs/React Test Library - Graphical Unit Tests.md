@@ -121,4 +121,4 @@ npm test
 ```
 
 You will see the 2 tests in the test suite run successfully
-![Sample Test Run](./images/sampletestrun.jpg)
+![Sample Test Run](../images/sampletestrun.jpg)

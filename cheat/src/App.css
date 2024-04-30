@@ -1,0 +1,13 @@
+form {
+  display: flex;
+  flex-direction: column;
+  background-color: lightyellow;
+  padding: 20px;
+  width: 200px;
+  margin: auto;
+}
+
+form .MuiTextField-root,
+form .MuiButton-root {
+  margin-bottom: 10px;
+}
